@@ -1,0 +1,44 @@
+.header1 {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.bory-listas {
+align-items: end;
+}
+
+.titulo {
+    display: flex;
+    color: yellow;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: black;
+
+}
+
+.menu {
+    color: yellow;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.section01 img {
+    height: 350px;
+    width: 400px;
+}
+
+.section01 p{
+    display: flex;
+    color: yellow;
+    justify-content: center;
+    align-items: center;
+}
